@@ -1,0 +1,9 @@
+# root directory
+node_modules/
+package-lock.json
+.env
+
+# react client directory
+client_react/node_modules/
+client_react/build/
+client_react/package-lock.json

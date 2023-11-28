@@ -1,0 +1,27 @@
+{
+    "name": "MERN-project-tracking-02",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src_node/index.js",
+    "scripts": {
+        "client": "npm start --prefix ./client_react",
+        "server": "node src_node/server.js"
+    },
+    "keywords": [
+        "backend",
+        "mongoose",
+        "trello clone"
+    ],
+    "author": "P&U",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "path": "^0.12.7",
+        "morgan": "^1.10.0",
+        "express-async-handler": "^1.2.0",
+        "jsonwebtoken": "^9.0.0",
+        "mongoose": "^7.2.2"
+    }
+}
