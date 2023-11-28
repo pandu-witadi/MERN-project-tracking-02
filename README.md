@@ -6,7 +6,7 @@ MERN stack for project tracking 02
 # 0001_MERN_startup_code
 # git repo
 1. sign in to hithub.com
-2. create remote repo https://github.com/pandu-witadi/MERN-project-tracking
+2. create remote repo https://github.com/pandu-witadi/MERN-project-tracking-02
 3. create Personal access tokens (classic) in https://github.com/settings/tokens
 
 # local code
