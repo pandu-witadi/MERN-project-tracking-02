@@ -15,5 +15,5 @@ MERN stack for project tracking 02
 3. git status
 4. git checkout -b 0001_MERN_startup_code
 5. git commit -m "0001 MERN startup code"
-6. git remote add origin https://github.com/pandu-witadi/MERN_lms.git
+6. git remote add origin https://github.com/pandu-witadi/MERN-project-tracking-02.git
 7. git push origin 0001_MERN_startup_code
